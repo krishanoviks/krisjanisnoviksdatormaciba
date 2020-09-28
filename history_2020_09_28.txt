@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  pwd
+    5  git clone https://github.com/krishanoviks/krisjanisnoviksdatormaciba
+    6  ls -lt
+    7  cd krisjanisnoviksdatormaciba/
+    8  ls -lt
+    9  ls -la
+   10  cat 
+   11  nano first.c
+   12  ls -lt
+   13  mv ./first.c ./krisjanisnoviksdatormaciba/
+   14  cd ./krisjanisnoviksdatormaciba/
+   15  ls -lt
+   16  gcc first.c
+   17  ls -lt
+   18  ./a.out
+   19  echo $?
+   20  cp first.c second.c
+   21  ls -lt
+   22  nano second.c
+   23  ls -lt
+   24  gcc second.c 
+   25  ls -lt
+   26  gcc first.c -o first.out
+   27  ls -lt
+   28  cp first.c helloworld.c
+   29  nano helloworld.c 
+   30  gcc helloworld.c 
+   31  nano helloworld.c 
+   32  gcc helloworld.c helloworld.out
+   33  gcc helloworld.c -o helloworld.out
+   34  ./helloworld.out 
+   35  nano helloworld.
+   36  nano helloworld.c
+   37  gcc helloworld.c -o helloworld.out
+   38  ./helloworld.out 
+   39  echo $0
+   40  ./helloworld.out 
+   41  echo $?
+   42  nano helloworld.c
+   43  gcc helloworld.c -o helloworld.out
+   44  nano helloworld.c
+   45  gcc helloworld.c -o helloworld.out
+   46  ./helloworld.out 
+   47  nano helloworld.c
+   48  gcc helloworld.c -o helloworld.out
+   49  ./helloworld.out 
+   50  echo $?
+   51  ls -lt
+   52  history
+   53  history > history_2020_09_28.txt
