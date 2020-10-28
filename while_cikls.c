@@ -27,7 +27,7 @@ int main(){
 
  double b, c, precision;
 
- for(b=0.35, c=0.05, precision = c/2; fabs(b-1.0 > precision); b+=c, c+=-.01){
+ for(b=0.35, c=0.05, precision = c/2; fabs(b-1.0) > fabs(precision); b+=c, c+=-.01){
  printf("a ir vienads ar %.20f vai ar peldoso punktu %e\n",b,b);
  }
 
