@@ -14,9 +14,7 @@ scanf("%lld",&input);
 long long i = input;
 
 printf("ievadi c prieks char, i prieks int vai l prieks long long ");
-scanf("%c",&type);
-scanf("%c",&type);
-
+scanf("%s",&type);
 
 if (type == 'c')
 {
@@ -55,7 +53,7 @@ else if (type == 'l')
 	else printf("ar so datu tipu nevar");
 }
 
-else printf("ievadiet pareizi datu tipu, 'c' - char, 'i' - int, 'l' - long long");
+else printf("ievadiet pareizi datu tipu, 'c' - char, 'i' - int, 'l' - long long\n");
 
 
 } //for main

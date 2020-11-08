@@ -58,7 +58,7 @@ else if (type == 'l')
 	else printf("ar so datu tipu nevar");
 }
 
-else printf("ievadiet pareizi datu tipu, 'c' - char, 'i' - int, 'l' - long long");
+else printf("ievadiet pareizi datu tipu, 'c' - char, 'i' - int, 'l' - long long\n");
 
 
 } //for main
