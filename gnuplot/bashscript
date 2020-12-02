@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+cd ~/krisjanisnoviksdatormaciba/gnuplot
+./a.out
+gnuplot "myscript.gp"
+eog ./output.svg
