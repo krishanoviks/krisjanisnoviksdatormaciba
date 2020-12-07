@@ -1,4 +1,4 @@
-##1. LD taylor series e^(-x)
+# 1. LD taylor series e^(-x)
 
 ```
 #include <stdio.h>
