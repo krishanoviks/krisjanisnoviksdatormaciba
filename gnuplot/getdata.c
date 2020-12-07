@@ -5,7 +5,7 @@ int a,b,N;
 
 double y,x;
 
-void main(){
+int main(){
 
 printf("Ievadiet robezu a:");
 scanf("%d",&a);
@@ -35,12 +35,12 @@ if (pFile!=NULL)
   for (int i=0; i<N; i++)
   {
     x=(double)a + (double)i*(b-a)/N;
-    y = exp(x);
+    y = exp(-x);
   fprintf(pFile,"%.3lf %.3lf\n",x,y); //parraksta visu un ievada rindinu
   }
   fclose (pFile);
 }
 
 
-
+return 0;
 }
