@@ -1,5 +1,6 @@
-1. LD taylor series e^(-x)
+##1. LD taylor series e^(-x)
 
+```
 #include <stdio.h>
 #include <math.h>
 
@@ -34,8 +35,8 @@ int main(){
  printf("funkcija defineta visas realas x vertibas\n");
  printf("pec teilora rindas aprekinatais e^(-%.2Lf) = %.20LE\n",x,approx);
  printf("pec exp(-x) aprekinatais e^(-%.2Lf) = %.20LE\n",x,exp(-x));
-
-
-
+ 
  return 0;
 }
+```
+![alt text](/gnuplot/output.svg)
