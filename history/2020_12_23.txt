@@ -1,59 +1,3 @@
-   41  nano data_type.c 
-   42  gcc data_type.c 
-   43  ./a.out 
-   44  nano data_type.c 
-   45  gcc data_type.c 
-   46  ./a.out 
-   47  nano data_type.c 
-   48  gcc data_type.c 
-   49  ./a.out 
-   50  nano data_type.c 
-   51  gcc  data_type.c 
-   52  ./a.out 
-   53  nano data_type.c 
-   54  gcc data_type.c 
-   55  ./a.out 
-   56  nano data_type.c 
-   57  gcc data_type.c 
-   58  ./a.out 
-   59  cd ./krisjanisnoviksdatormaciba/
-   60  git add .
-   61  git commit -m "pedeja stunda"
-   62  git config --global user.name krishanoviks
-   63  git commit -m "pedeja stunda"
-   64  git config --global user.email krishanoviks@gmail.com
-   65  git commit -m pedejastunda
-   66  git push origin
-   67  init  0
-   68  git
-   69  git clone 
-   70  git clone https://github.com/krishanoviks/krisjanisnoviksdatormaciba
-   71  ls -lt
-   72  cd ./krisjanisnoviksdatormaciba/
-   73  ls -lt
-   74  nano numerical_systems.txt 
-   75  nano reizinasanas_uzd.c
-   76  nano data_type.c 
-   77  nano reizinasanas_uzd.c 
-   78  gcc reizinasanas_uzd.c 
-   79  nano reizinasanas_uzd.c 
-   80  gcc reizinasanas_uzd.c 
-   81  nano data_type.c 
-   82  nano reizinasanas_uzd.c 
-   83  gcc reizinasanas_uzd.c 
-   84  nano data_type.c 
-   85  nano reizinasanas_uzd.c 
-   86  gcc reizinasanas_uzd.c 
-   87  nano reizinasanas_uzd.c 
-   88  gcc reizinasanas_uzd.c 
-   89  gcc data_type.c 
-   90  nano reizinasanas_uzd.c 
-   91  gcc reizinasanas_uzd.c 
-   92  nano reizinasanas_uzd.c 
-   93  gcc reizinasanas_uzd.c 
-   94  nano reizinasanas_uzd.c 
-   95  gcc reizinasanas_uzd.c 
-   96  ./a.out 
    97  nano reizinasanas_uzd.c 
    98  ./a.out 
    99  nano reizinasanas_uzd.c 
@@ -998,3 +942,59 @@
  1038  mkdir ./history
  1039  cd ./history/
  1040  history > 2020_12_23.txt
+ 1041  ..cd
+ 1042  cd ..
+ 1043  cd ./uzdevumi/
+ 1044  nano LD3_derivative.c
+ 1045  g++ LD3_derivative.c 
+ 1046  nano LD3_derivative.c
+ 1047  g++ LD3_derivative.c 
+ 1048  nano LD3_derivative.c
+ 1049  g++ LD3_derivative.c 
+ 1050  ./a.out 
+ 1051  nano LD3_derivative.c
+ 1052  cd ../gnuplot/
+ 1053  ls -lt
+ 1054  nano getdata.c
+ 1055  cd ../uzdevumi
+ 1056  nano LD3_derivative.c 
+ 1057  g++ LD3_derivative.c 
+ 1058  nano LD3_derivative.c 
+ 1059  g++ LD3_derivative.c 
+ 1060  nano LD3_derivative.c 
+ 1061  g++ LD3_derivative.c 
+ 1062  ./a.out 
+ 1063  nano LD3_derivative.c 
+ 1064  g++ LD3_derivative.c 
+ 1065  ./a.out 
+ 1066  nano LD3_derivative.c 
+ 1067  g++ LD3_derivative.c 
+ 1068  ./a.out 
+ 1069  cd ../gnuplot/
+ 1070  ls -lt
+ 1071  nano myscript.gp
+ 1072  cd ../uzdevumi/
+ 1073  cd ../ld/LD3
+ 1074  g++ LD3_derivative.c 
+ 1075  ./a.out 
+ 1076  nano LD3_derivative.c 
+ 1077  nano draw_graph.gp
+ 1078  nano LD3_derivative.c 
+ 1079  g++ LD3_derivative.c 
+ 1080  nano LD3_derivative.c 
+ 1081  g++ LD3_derivative.c 
+ 1082  ./a.out 
+ 1083  nano LD3_derivative.c 
+ 1084  gnuplot
+ 1085  nano draw_graph.gp 
+ 1086  gnuplot
+ 1087  nano draw_graph.gp 
+ 1088  gnuplot
+ 1089  nano draw_graph.gp 
+ 1090  gnuplot
+ 1091  cd ..
+ 1092  ./upload 
+ 1093  gnu push master
+ 1094  cd ../history
+ 1095  cd ./history
+ 1096  history > "2020_12_23.txt"
