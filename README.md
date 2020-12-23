@@ -225,6 +225,6 @@ int main()
  return 0;
 }
 ```
-![wolframalpha screenshot](/ld/LD4/Screenshot_from_2020-12-23 16-11-01.png)
+![wolframalpha screenshot](/ld/LD4/Screenshot_from_2020-12-23_16-11-01.png)
 ![integral graph](/ld/LD4/output.png)
 
