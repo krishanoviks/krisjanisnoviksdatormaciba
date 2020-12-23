@@ -225,6 +225,6 @@ int main()
  return 0;
 }
 ```
-![alt text](/ld/LD4/Screenshot from 2020-12-23 16-11-01.png)
+![alt text](/ld/LD4/Screenshot_from_2020-12-23 16-11-01.png)
 ![alt text](/ld/LD4/output.png)
 
