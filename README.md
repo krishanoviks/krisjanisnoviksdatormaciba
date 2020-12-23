@@ -1,5 +1,5 @@
 # funkcija e^(-x)
-![alt text](/gnuplot/output.svg)
+![exp(-x) graph](/gnuplot/output.svg)
 
 # 1. LD taylor series e^(-x)
 ```
@@ -145,7 +145,7 @@ int main()
   return 0;
 }
 ```
-![alt text](/ld/LD3/output.svg)
+![derivative graph](/ld/LD3/output.svg)
 
 # 4.LD integral
 
@@ -225,6 +225,6 @@ int main()
  return 0;
 }
 ```
-![alt text](/ld/LD4/Screenshot_from_2020-12-23 16-11-01.png)
-![alt text](/ld/LD4/output.png)
+![wolframalpha screenshot](/ld/LD4/Screenshot_from_2020-12-23 16-11-01.png)
+![integral graph](/ld/LD4/output.png)
 
