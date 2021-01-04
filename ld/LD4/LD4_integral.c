@@ -17,6 +17,7 @@ int main()
  printf("ievadiet precizitati:");
  scanf("%lf",&delta);
 
+//taisnstura metode
  integr_ta=fabs(b-a)*(f(a)+f(b))/n;
  while(fabs(integr_ta-integr1)>delta)
  {
@@ -28,6 +29,8 @@ int main()
  }
  printf("integrala vertiba ar taisnsturiem: %.6lf\n",integr_ta);
 
+
+//trapecu metode
  n=2;
  integr1=0;
  h = fabs(b-a)/n;
@@ -44,6 +47,7 @@ int main()
  printf("integrala vertiba ar trapecem: %.6lf\n",integr_tr/2);
  //es nezinu kapec bet rezultats sanak 2 reiz lielaks tapec es vel izdalu ar 2
 
+//Simpsona metode
  n=2;
  integr1=0;
  h=fabs(b-a)/n;

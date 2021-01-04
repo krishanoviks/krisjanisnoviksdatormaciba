@@ -1,0 +1,1000 @@
+  344  ./a
+  345  gcc funkcijas_veidosana.c 
+  346  nano funkcijas_veidosana.c 
+  347  gcc funkcijas_veidosana.c 
+  348  ./a.out 
+  349  cd ..
+  350  cd ./uzdevumi/
+  351  nano PU_6_use_defined_function.c
+  352  mv ./PU_6_use_defined_function.c ./PU_6_user_defined_function.c 
+  353  nano PU_6_user_defined_function.c 
+  354  gcc PU_6_user_defined_function.c 
+  355  nano PU_6_user_defined_function.c 
+  356  gcc PU_6_user_defined_function.c 
+  357  ./a.out 
+  358  nano PU_6_user_defined_function.c 
+  359  gcc PU_6_user_defined_function.c 
+  360  nano PU_6_user_defined_function.c 
+  361  gcc PU_6_user_defined_function.c 
+  362  ./a.out 
+  363  nano PU_6_user_defined_function.c 
+  364  gcc PU_6_user_defined_function.c 
+  365  ./a.out 
+  366  nano PU_6_user_defined_function.c 
+  367  gcc PU_6_user_defined_function.c 
+  368  nano PU_6_user_defined_function.c 
+  369  gcc PU_6_user_defined_function.c 
+  370  ./a.out 
+  371  nano PU_6_user_defined_function.c 
+  372  gcc PU_6_user_defined_function.c 
+  373  nano PU_6_user_defined_function.c 
+  374  nano 4uzd_while_factorial.c
+  375  fg
+  376  gcc 4uzd_while_factorial.c 
+  377  nano 4uzd_while_factorial.c 
+  378  gcc 4uzd_while_factorial.c 
+  379  cd ..
+  380  l -lt
+  381  nano cikla_uzdevums.c 
+  382  nano while_cikls.c 
+  383  gcc while_cikls.c 
+  384  ./a.out 
+  385  nano while_cikls.c 
+  386  gcc while_cikls.c 
+  387  ./a.out 
+  388  cd ./krisjanisnoviksdatormaciba/uzdevumi/
+  389  nano 4uzd_while_factorial.c 
+  390  gcc 4uzd_while_factorial.c 
+  391  ./a.out 
+  392  nano 4uzd_while_factorial.c 
+  393  gcc 4uzd_while_factorial.c 
+  394  nano 4uzd_while_factorial.c 
+  395  gcc 4uzd_while_factorial.c 
+  396  ./a.out 
+  397  nano test.c
+  398  nano 4uzd_while_factorial.c 
+  399  gcc 4uzd_while_factorial.c 
+  400  ./a.out 
+  401  nano 4uzd_while_factorial.c 
+  402  gcc 4uzd_while_factorial.c 
+  403  ./a.out 
+  404  nano 4uzd_while_factorial.c 
+  405  gcc 4uzd_while_factorial.c 
+  406  ./a.out 
+  407  2
+  408  nano 4uzd_while_factorial.c 
+  409  gcc 4uzd_while_factorial.c 
+  410  ./a.out 
+  411  nano 4uzd_while_factorial.c 
+  412  gcc 4uzd_while_factorial.c 
+  413  ./a.out 
+  414  nano 4uzd_while_factorial.c 
+  415  gcc 4uzd_while_factorial.c 
+  416  ./a.out 
+  417  nano 4uzd_while_factorial.c 
+  418  gcc 4uzd_while_factorial.c 
+  419  ./a.out 
+  420  nano 4uzd_while_factorial.c 
+  421  gcc 4uzd_while_factorial.c 
+  422  ./a.out 
+  423  nano 4uzd_while_factorial.c 
+  424  gcc 4uzd_while_factorial.c 
+  425  ./a.out 
+  426  nano 4uzd_while_factorial.c 
+  427  gcc 4uzd_while_factorial.c 
+  428  ./a.out 
+  429  cd ./krisjanisnoviksdatormaciba/uzdevumi/
+  430  nano 4uzd_while_factorial.c 
+  431  gcc 4uzd_while_factorial.c 
+  432  nano 4uzd_while_factorial.c 
+  433  gcc 4uzd_while_factorial.c 
+  434  ./a.out 
+  435  nano 4uzd_while_factorial.c 
+  436  gcc 4uzd_while_factorial.c 
+  437  ./a.out 
+  438  nano 4uzd_while_factorial.c 
+  439  gcc 4uzd_while_factorial.c 
+  440  ./a.out 
+  441  nano 4uzd_while_factorial.c 
+  442  fg
+  443  gcc 4uzd_while_factorial.c 
+  444  ./a.out 
+  445  nano 4uzd_while_factorial.c 
+  446  gcc 4uzd_while_factorial.c 
+  447  nano 4uzd_while_factorial.c 
+  448  ./a.out 
+  449  nano 4uzd_while_factorial.c 
+  450  gcc 4uzd_while_factorial.c 
+  451  nano 4uzd_while_factorial.c 
+  452  gcc 4uzd_while_factorial.c 
+  453  ./a.out 
+  454  gcc 4uzd_while_factorial.c 
+  455  nano 4uzd_while_factorial.c 
+  456  cd ..
+  457  git add .
+  458  git commit -m  "2020_10_28_4uzd"
+  459  git push origin
+  460  cd ./krisjanisnoviksdatormaciba/
+  461  cd ./uzdevumi/
+  462  nano 4_for_factorial.c 
+  463  gcc 4_for_factorial.c 
+  464  ./a.out 
+  465  nano 5_for_factorial.c 
+  466  nano 6_user_defined_functions.c 
+  467  ..
+  468  cd ..
+  469  git add .
+  470  git commit "2020_10_28_sakartots"
+  471  git commit -m "2020_10_28_sakartots"
+  472  git push origin
+  473  init 0
+  474  cd ./krisjanisnoviksdatormaciba/
+  475  ls -l
+  476  cd ./teorija/
+  477  nano scanf_char.c
+  478  gcc scanf_char.c 
+  479  ./a.out 
+  480  nano scanf_char.c 
+  481  gcc scanf_char.c 
+  482  nano scanf_char.c 
+  483  gcc scanf_char.c 
+  484  ./a.out 
+  485  cd ..
+  486  cd ./uzdevumi/
+  487  nano 5_for_factorial.c 
+  488  gcc 5_for_factorial.c 
+  489  ./a.out 
+  490  nano 5_for_factorial.c 
+  491  gcc 5_for_factorial.c 
+  492  ./a.out 
+  493  l
+  494  gcc 5_for_factorial.c 
+  495  nano 5_for_factorial.c 
+  496  gcc 5_for_factorial.c 
+  497  ./a.out 
+  498  nano 5_for_factorial.c 
+  499  gcc 5_for_factorial.c 
+  500  ./a.out 
+  501  nano 5_for_factorial.c 
+  502  gcc 5_for_factorial.c 
+  503  ./a.out 
+  504  nano 5_for_factorial.c 
+  505  gcc 5_for_factorial.c 
+  506  ./a.out 
+  507  ./a
+  508  ./a.out 
+  509  nano 5_for_factorial.c 
+  510  gcc 5_for_factorial.c 
+  511  ./a.out 
+  512  ls -l
+  513  nano 2_bitu_uzdevums.c
+  514  gcc 2_bitu_uzdevums.c 
+  515  nano 2_bitu_uzdevums.c 
+  516  gcc 2_bitu_uzdevums.c 
+  517  ./a.out 
+  518  ./a.out 10
+  519  ./a.out
+  520  nano 2_bitu_uzdevums.c 
+  521  gcc 2_bitu_uzdevums.c 
+  522  ./a.out
+  523  nano 2_bitu_uzdevums.c 
+  524  nano 6_user_defined_functions.c 
+  525  gcc 6_user_defined_functions.c 
+  526  ./a.out 
+  527  nano 6_user_defined_functions.c 
+  528  gcc 6_user_defined_functions.c 
+  529  ./a.out 
+  530  nano 6_user_defined_functions.c 
+  531  nano 2_bitu_uzdevums.c 
+  532  nano 6_user_defined_functions.c 
+  533  nano 2_bitu_uzdevums.c 
+  534  nano 6_user_defined_functions.c 
+  535  gcc 6_user_defined_functions.c 
+  536  nano 6_user_defined_functions.c 
+  537  gcc 6_user_defined_functions.c 
+  538  ./a.out 
+  539  nano 6_user_defined_functions.c 
+  540  gcc 6_user_defined_functions.c 
+  541  nano 6_user_defined_functions.c 
+  542  gcc 6_user_defined_functions.c 
+  543  nano 6_user_defined_functions.c 
+  544  gcc 6_user_defined_functions.c 
+  545  nano 6_user_defined_functions.c 
+  546  init 0
+  547  cd ./krisjanisnoviksdatormaciba/uzdevumi/
+  548  nano 6_user_defined_functions.c 
+  549  nano 4_while_factorial.c 
+  550  gcc 4_while_factorial.c 
+  551  ./a
+  552  ./a.out 
+  553  nano 4_while_factorial.c 
+  554  nano 5_for_factorial.c 
+  555  nano 6_user_defined_functions.c 
+  556  gcc 6_user_defined_functions.c 
+  557  nano 6_user_defined_functions.c 
+  558  gcc 6_user_defined_functions.c 
+  559  nano 6_user_defined_functions.c 
+  560  gcc 6_user_defined_functions.c 
+  561  ./a.out 
+  562  nano 6_user_defined_functions.c 
+  563  gcc 6_user_defined_functions.c 
+  564  ./a.out 
+  565  gcc 2_bitu_uzdevums.c 
+  566  ./a.out 
+  567  nano 2_bitu_uzdevums.c 
+  568  nano 6_user_defined_functions.c 
+  569  gcc 6_user_defined_functions.c 
+  570  ./a.out 
+  571  nano 6_user_defined_functions.c 
+  572  gcc 6_user_defined_functions.c 
+  573  ./a.out 
+  574  nano 6_user_defined_functions.c 
+  575  gcc 6_user_defined_functions.c 
+  576  nano 6_user_defined_functions.c 
+  577  gcc 6_user_defined_functions.c 
+  578  nano 6_user_defined_functions.c 
+  579  gcc 6_user_defined_functions.c 
+  580  ./a.out 
+  581  gcc 6_user_defined_functions.c
+  582  nano 6_user_defined_functions.c 
+  583  gcc 6_user_defined_functions.c 
+  584  ./a.out 
+  585  nano 6_user_defined_functions.c 
+  586  gcc 6_user_defined_functions.c 
+  587  nano 6_user_defined_functions.c 
+  588  gcc 6_user_defined_functions.c 
+  589  ./a.out 
+  590  gcc 6_user_defined_functions.c 
+  591  nano 6_user_defined_functions.c 
+  592  gcc 6_user_defined_functions.c 
+  593  nano 6_user_defined_functions.c 
+  594  gcc 6_user_defined_functions.c 
+  595  nano 6_user_defined_functions.c 
+  596  gcc 6_user_defined_functions.c 
+  597  nano 6_user_defined_functions.c 
+  598  gcc 6_user_defined_functions.c 
+  599  ./a.out 
+  600  nano 6_user_defined_functions.c 
+  601  gcc 6_user_defined_functions.c 
+  602  ./a.out 
+  603  ..
+  604  cd ..
+  605  git add .
+  606  git commit "2020_11_08_sestais_uzdevums"
+  607  git commit -a "2020_11_08_sestais_uzdevums"
+  608  git commit -m "2020_11_08_sestais_uzdevum
+  609  git push origin
+  610  init 0
+  611  cd ./krisjanisnoviksdatormaciba/teorija/
+  612  nano adreses.c
+  613  gcc adreses.c 
+  614  nano adreses.c
+  615  gcc adreses.c 
+  616  ./a.out 
+  617  cd ./krisjanisnoviksdatormaciba/teorija/
+  618  nano array.c
+  619  gcc array.c 
+  620  ./a.out 
+  621  nano array.c
+  622  init 0
+  623  cd ./krisjanisnoviksdatormaciba/teorija/
+  624  nano strings.c
+  625  gcc strings.c 
+  626  ./a.out 
+  627  nano strings.c
+  628  nano inputstring.c
+  629  gcc inputstring.c 
+  630  ./a.out 
+  631  ssh -X -C p201REB605@213.175.92.15 -p 30022
+  632  init 0
+  633  sudo apt-get install gnuplot
+  634  gnuplot
+  635  sudo apt install gnuplot-nox
+  636  sudo killall apt apt-get
+  637  gnuplot
+  638  sudo apt install gnuplot-nox
+  639  sudo rm /var/cache/apt/archives/lock
+  640  sudo rm /var/lib/dpkg/lock
+  641  gnuplot
+  642  sudo apt install gnuplot-nox
+  643  gnuplot
+  644  cd ./krisjanisnoviksdatormaciba/gnuplot
+  645  cd ./krisjanisnoviksdatormaciba/
+  646  mkdir ./gnuplot
+  647  cd ./gnuplot/
+  648  nano script1.gp
+  649  nano data.txt
+  650  nano script1.gp 
+  651  gnuplot 
+  652  sudo apt-get install gnuplot
+  653  gnupolt
+  654  gnuplot
+  655  nano script1.gp 
+  656  ./script.gp
+  657  ls -lt
+  658  ./script1.gp
+  659  gnuplot
+  660  nano getdata.c
+  661  cd ..
+  662  cd ./teorija/
+  663  -ls lt
+  664  ls -lt
+  665  nano filewriteexample.c 
+  666  cd ..
+  667  cd ./gnuplot/
+  668  ls -lt
+  669  nano getdata.c 
+  670  gcc getdata.c 
+  671  nano getdata.c 
+  672  gcc getdata.c 
+  673  ./a
+  674  nano getdata.c 
+  675  gcc getdata.c 
+  676  cd ../teorija/
+  677  ls -lt
+  678  nano feof.c 
+  679  cd ../gnuplot/
+  680  gcc getdata.c 
+  681  nano getdata.c 
+  682  gcc getdata.c 
+  683  nano getdata.c 
+  684  gcc getdata.c 
+  685  nano getdata.c 
+  686  gcc getdata.c 
+  687  nano getdata.c 
+  688  gcc getdata.c 
+  689  nano getdata.c 
+  690  gcc getdata.c 
+  691  gcc getdata.c -lm
+  692  ./a.out 
+  693  nano getdata.c 
+  694  gcc getdata.c -lm
+  695  ./a.out 
+  696  ls -lt
+  697  nano myfile.txt 
+  698  ./a.out 
+  699  nano myfile.txt 
+  700  gnuplot
+  701  nano script1.gp 
+  702  gnuplot
+  703  nano script1.gp 
+  704  ls -lt
+  705  gnuplot
+  706  ls -lt
+  707  ./out.out
+  708  chmod ./out.out 777
+  709  chmod --help
+  710  chmod 777 ./out.out 
+  711  ./out.out 
+  712  nano myscript.gp
+  713  gnuplot
+  714  nano myscript.gp 
+  715  gnuplot
+  716  nano myscript.gp 
+  717  gnuplot
+  718  ./out.out 
+  719  gnuplot
+  720  nano myscript.gp 
+  721  gnuplot
+  722  nano myscript.gp 
+  723  ls -lt
+  724  nano myfile.txt 
+  725  ./output.svg
+  726  chmod 777 ./output.svg 
+  727  ./output.svg
+  728  nano getdata.c 
+  729  gcc getdata.c 
+  730  gcc getdata.c -lm
+  731  ./a.out 
+  732  nano myfile.txt 
+  733  nano getdata.c 
+  734  gcc getdata.c -lm
+  735  ./a.out 
+  736  nano myfile.txt 
+  737  gnuplot
+  738  ./a
+  739  ./a.out 
+  740  gnuplot
+  741  nano bashscript
+  742  eog
+  743  eog ./output.out
+  744  eog ./output.svg
+  745  nano bashscript 
+  746  chmod 777 bashscript 
+  747  bashscript
+  748  ./bashscript 
+  749  gnuplot load "myscript.gp"
+  750  gnuplot
+  751  gnuplot myscript.gp 
+  752  ./bashscript 
+  753  ..
+  754  cd ..
+  755  nano upload
+  756  cd ./gnuplot/
+  757  nano bashscript 
+  758  cd ..
+  759  nano upload
+  760  chmod 777 upload 
+  761  ./upload 
+  762  nano upload
+  763  cd ./gnuplot/
+  764  nano bashscript 
+  765  cd ..
+  766  nano upload 
+  767  ./upload 
+  768  nano upload 
+  769  git push origin master
+  770  git add .
+  771  git push "gnuplot"
+  772  git push -a "gnuplot"
+  773  git push -m "gnuplot"
+  774  git push -all "gnuplot"
+  775  git push --all "gnuplot"
+  776  git add .
+  777  git commit -m "gnuplot"
+  778  git push origin master
+  779  nano upload 
+  780  git status
+  781  mkdir ./nigger
+  782  git status
+  783  ./upload
+  784  init 0
+  785  cd ./krisjanisnoviksdatormaciba/
+  786  cd ./gnuplot/
+  787  ls -lt
+  788  nano getdata.c
+  789  cd ..
+  790  cd ./uzdevumi
+  791  nano taylorseries.c
+  792  gcc -lm taylorseries.c
+  793  nano taylorseries.c
+  794  gcc -lm taylorseries.c
+  795  nano taylorseries.c
+  796  gcc -lm taylorseries.c
+  797  nano taylorseries.c
+  798  gcc -lm taylorseries.c
+  799  nano taylorseries.c
+  800  gcc -lm taylorseries.c
+  801  g++
+  802  sudo apt install g++
+  803  g++
+  804  g++ taylorseries.c 
+  805  ./a.out 
+  806  nano taylorseries.c
+  807  g++ taylorseries.c 
+  808  ./a.out 
+  809  g++ taylorseries.c 
+  810  nano taylorseries.c
+  811  g++ taylorseries.c 
+  812  nano taylorseries.c
+  813  g++ taylorseries.c 
+  814  ./a.out 
+  815  nano taylorseries.c
+  816  g++ taylorseries.c 
+  817  ./a.out 
+  818  nano taylorseries.c
+  819  g++ taylorseries.c 
+  820  ./a.out 
+  821  nano taylorseries.c
+  822  g++ taylorseries.c 
+  823  nano taylorseries.c
+  824  g++ taylorseries.c 
+  825  nano taylorseries.c
+  826  cd ../gnuplot/
+  827  nano getdata.c 
+  828  cd ../uzdevumi/
+  829  nano taylorseries.c
+  830  g++ taylorseries.c 
+  831  nano taylorseries.c
+  832  g++ taylorseries.c 
+  833  nano taylorseries.c
+  834  g++ taylorseries.c 
+  835  ./a.out 
+  836  nano taylorseries.c
+  837  ./a.out 
+  838  g++ taylorseries.c 
+  839  ./a.out 
+  840  nano taylorseries.c
+  841  g++ taylorseries.c 
+  842  ./a.out 
+  843  nano taylorseries.c
+  844  g++ taylorseries.c 
+  845  ./a.out 
+  846  nano taylorseries.c
+  847  g++ taylorseries.c 
+  848  ./a.out 
+  849  cd ../gnuplot/
+  850  nano getdata.c 
+  851  ./a.out 
+  852  fas
+  853  g++ getdata.c 
+  854  nano getdata.c 
+  855  g++ getdata.c A
+  856  g++ getdata.c 
+  857  ./a.out 
+  858  ls -lt
+  859  ./bashscript 
+  860  ls -lt
+  861  cd ..
+  862  ls -lt
+  863  ./upload 
+  864  git add .
+  865  git commit "ld1"
+  866  git commit
+  867  git push master
+  868  git push
+  869  git add .
+  870  git commit "readme"
+  871  git commit
+  872  ./upload 
+  873  git push
+  874  cd ./gnuplot/
+  875  ls -lt
+  876  nano myscript.gp 
+  877  ./bashscript 
+  878  cd ..
+  879  ./upload 
+  880  git push
+  881  git pull
+  882  ls -lt
+  883  nano reizinasanas_uzd.c 
+  884  nano README.md 
+  885  cd ./gnuplot/
+  886  nano myscript.gp 
+  887  cd ..
+  888  ./upload 
+  889  git push
+  890  cd ./uzdevumi/
+  891  nano taylorseries.c 
+  892  g++ taylorseries.c 
+  893  ./a.out 
+  894  nano taylorseries.c 
+  895  g++ taylorseries.c 
+  896  ./a.out 
+  897  nano taylorseries.c 
+  898  g++ taylorseries.c 
+  899  ./a.out 
+  900  nano taylorseries.c 
+  901  g++ taylorseries.c 
+  902  ./a.out 
+  903  nano taylorseries.c 
+  904  g++ taylorseries.c 
+  905  ./a.out 
+  906  nano taylorseries.c 
+  907  g++ taylorseries.c 
+  908  ./a.out 
+  909  nano taylorseries.c 
+  910  g++ taylorseries.c 
+  911  ./a.out 
+  912  nano taylorseries.c 
+  913  g++ taylorseries.c 
+  914  nano taylorseries.c 
+  915  g++ taylorseries.c 
+  916  ./a.out 
+  917  nano taylorseries.c 
+  918  g++ taylorseries.c 
+  919  ./a.out 
+  920  nano taylorseries.c 
+  921  g++ taylorseries.c 
+  922  ./a.out 
+  923  nano taylorseries.c 
+  924  g++ taylorseries.c 
+  925  nano taylorseries.c 
+  926  ./a.out 
+  927  nano taylorseries.c 
+  928  g++ taylorseries.c 
+  929  ./a.out 
+  930  cd ./krisjanisnoviksdatormaciba/
+  931  ./upload 
+  932  nano README.md
+  933  ./upload 
+  934  git push
+  935  nano README.md
+  936  cd ./krisjanisnoviksdatormaciba/
+  937  ./upload 
+  938  git push
+  939  init 0
+  940  cd ./krisjanisnoviksdatormaciba/
+  941  ls lt
+  942  ls -lt
+  943  cd ./uzdevumi/
+  944  ls l-t
+  945  ls -lt
+  946  nano LD2_bisection.c
+  947  g++ LD2_bisection.c 
+  948  nano LD2_bisection.c
+  949  g++ LD2_bisection.c 
+  950  nano LD2_bisection.c
+  951  g++ LD2_bisection.c 
+  952  ./a.out 
+  953  nano LD2_bisection.c
+  954  ./a.out 
+  955  nano LD2_bisection.c
+  956  g++ LD2_bisection.c 
+  957  ./a.out 
+  958  nano LD2_bisection.c
+  959  g++ LD2_bisection.c 
+  960  ./a.out 
+  961  nano LD2_bisection.c
+  962  g++ LD2_bisection.c 
+  963  nano LD2_bisection.c
+  964  ./a.out 
+  965  nano LD2_bisection.c
+  966  ./a.out 
+  967  nano LD2_bisection.c
+  968  g++ LD2_bisection.c 
+  969  ./a.out 
+  970  g++ LD2_bisection.c 
+  971  nano LD2_bisection.c
+  972  g++ LD2_bisection.c 
+  973  ./a.out 
+  974  nano LD2_bisection.c
+  975  g++ LD2_bisection.c 
+  976  ./a.out 
+  977  cd ./krisjanisnoviksdatormaciba/
+  978  ./upload
+  979  git push master
+  980  git push
+  981  cd ./uzdevumi/
+  982  g++ LD2_bisection.c 
+  983  nano LD2_bisection.c 
+  984  g++ LD2_bisection.c 
+  985  nano LD2_bisection.c 
+  986  g++ LD2_bisection.c 
+  987  ./a.out 
+  988  nano LD2_bisection.c 
+  989  fg
+  990  g++ LD2_bisection.c 
+  991  nano LD2_bisection.c 
+  992  g++ LD2_bisection.c 
+  993  ./a.out 
+  994  nano LD2_bisection.c 
+  995  cd ./krisjanisnoviksdatormaciba/
+  996  ./upload 
+  997  git push 
+  998  init 0
+  999  cd ./krisjanisnoviksdatormaciba/
+ 1000  cd ./uzdevumi/
+ 1001  ls -lt
+ 1002  nano LD4_integral.c
+ 1003  fgsd
+ 1004  g++ LD4_integral.c 
+ 1005  nano LD4_integral.c
+ 1006  g++ LD4_integral.c 
+ 1007  nano LD4_integral.c
+ 1008  g++ LD4_integral.c 
+ 1009  ./a.out 
+ 1010  g++ LD4_integral.c 
+ 1011  nano LD4_integral.c
+ 1012  g++ LD4_integral.c 
+ 1013  ./a.out 
+ 1014  nano LD4_integral.c 
+ 1015  g++ LD4_integral.c 
+ 1016  nano LD4_integral.c 
+ 1017  g++ LD4_integral.c 
+ 1018  nano LD4_integral.c 
+ 1019  g++ LD4_integral.c 
+ 1020  ./a.out 
+ 1021  nano LD4_integral.c 
+ 1022  g++ LD4_integral.c 
+ 1023  ./a.out 
+ 1024  nano LD4_integral.c 
+ 1025  g++ LD4_integral.c 
+ 1026  ./a.out 
+ 1027  nano LD4_integral.c 
+ 1028  g++ LD4_integral.c 
+ 1029  ./a.out 
+ 1030  nano LD4_integral.c 
+ 1031  g++ LD4_integral.c 
+ 1032  ./a.out 
+ 1033  nano LD4_integral.c 
+ 1034  g++ LD4_integral.c 
+ 1035  ./a.out 
+ 1036  adf
+ 1037  cd ..
+ 1038  mkdir ./history
+ 1039  cd ./history/
+ 1040  history > 2020_12_23.txt
+ 1041  ..cd
+ 1042  cd ..
+ 1043  cd ./uzdevumi/
+ 1044  nano LD3_derivative.c
+ 1045  g++ LD3_derivative.c 
+ 1046  nano LD3_derivative.c
+ 1047  g++ LD3_derivative.c 
+ 1048  nano LD3_derivative.c
+ 1049  g++ LD3_derivative.c 
+ 1050  ./a.out 
+ 1051  nano LD3_derivative.c
+ 1052  cd ../gnuplot/
+ 1053  ls -lt
+ 1054  nano getdata.c
+ 1055  cd ../uzdevumi
+ 1056  nano LD3_derivative.c 
+ 1057  g++ LD3_derivative.c 
+ 1058  nano LD3_derivative.c 
+ 1059  g++ LD3_derivative.c 
+ 1060  nano LD3_derivative.c 
+ 1061  g++ LD3_derivative.c 
+ 1062  ./a.out 
+ 1063  nano LD3_derivative.c 
+ 1064  g++ LD3_derivative.c 
+ 1065  ./a.out 
+ 1066  nano LD3_derivative.c 
+ 1067  g++ LD3_derivative.c 
+ 1068  ./a.out 
+ 1069  cd ../gnuplot/
+ 1070  ls -lt
+ 1071  nano myscript.gp
+ 1072  cd ../uzdevumi/
+ 1073  cd ../ld/LD3
+ 1074  g++ LD3_derivative.c 
+ 1075  ./a.out 
+ 1076  nano LD3_derivative.c 
+ 1077  nano draw_graph.gp
+ 1078  nano LD3_derivative.c 
+ 1079  g++ LD3_derivative.c 
+ 1080  nano LD3_derivative.c 
+ 1081  g++ LD3_derivative.c 
+ 1082  ./a.out 
+ 1083  nano LD3_derivative.c 
+ 1084  gnuplot
+ 1085  nano draw_graph.gp 
+ 1086  gnuplot
+ 1087  nano draw_graph.gp 
+ 1088  gnuplot
+ 1089  nano draw_graph.gp 
+ 1090  gnuplot
+ 1091  cd ..
+ 1092  ./upload 
+ 1093  gnu push master
+ 1094  cd ../history
+ 1095  cd ./history
+ 1096  history > "2020_12_23.txt"
+ 1097  git push master
+ 1098  git push
+ 1099  cd ../ld/LD3
+ 1100  gnuplot
+ 1101  exit
+ 1102  cd ./krisjanisnoviksdatormaciba/gnuplot/
+ 1103  nano myscript.gp 
+ 1104  ls -lt
+ 1105  ./bashscript 
+ 1106  cd ..
+ 1107  upload
+ 1108  ./upload
+ 1109  git push
+ 1110  cd ..
+ 1111  rm ./krisjanisnoviksdatormaciba/
+ 1112  rmdir ./krisjanisnoviksdatormaciba/
+ 1113  rm -rf ./krisjanisnoviksdatormaciba/
+ 1114  git clone https://github.com/krishanoviks/krisjanisnoviksdatormaciba
+ 1115  cd ./krisjanisnoviksdatormaciba/
+ 1116  ./upload
+ 1117  cd ./history/
+ 1118  history > "2020_12_23.txt"
+ 1119  cd ..
+ 1120  git push
+ 1121  init 0
+ 1122  rm
+ 1123  rm --help
+ 1124  rm -r ./krisjanisnoviksdatormaciba/
+ 1125  yy
+ 1126  y
+ 1127  git pull
+ 1128  git pull https//:github.com/krishanoviks/krisjanisnoviksdatormaciba
+ 1129  git pull --help
+ 1130  git clone https://github.com/krishanoviks/krisjanisnoviksdatormaciba
+ 1131  ls -lt
+ 1132  cd ./krisjanisnoviksdatormaciba/
+ 1133  cd ./ld/
+ 1134  ls -lt
+ 1135  nano LD5_bubblesort.c
+ 1136  cd ./krisjanisnoviksdatormaciba/
+ 1137  cd ./ld
+ 1138  ls -lt
+ 1139  nano LD1_taylorseries.c 
+ 1140  nano LD2_bisection.c 
+ 1141  cd ./LD3/
+ 1142  nano LD3_derivative.c 
+ 1143  cd ../LD4
+ 1144  nano LD4_integral.c 
+ 1145  cd ..
+ 1146  nano LD5_bubblesort.c 
+ 1147  g++ LD5_bubblesort.c 
+ 1148  nano LD5_bubblesort.c 
+ 1149  g++ LD5_bubblesort.c 
+ 1150  nano LD5_bubblesort.c 
+ 1151  g++ LD5_bubblesort.c 
+ 1152  ./a.out 
+ 1153  nano LD5_bubblesort.c 
+ 1154  g++ LD5_bubblesort.c 
+ 1155  nano LD5_bubblesort.c 
+ 1156  g++ LD5_bubblesort.c 
+ 1157  ./a.out 
+ 1158  g++ LD5_bubblesort.c 
+ 1159  ./a.out 
+ 1160  nano LD5_bubblesort.c 
+ 1161  g++ LD5_bubblesort.c 
+ 1162  nano LD5_bubblesort.c 
+ 1163  g++ LD5_bubblesort.c 
+ 1164  ./a.out 
+ 1165  nano LD5_bubblesort.c 
+ 1166  g++ LD5_bubblesort.c 
+ 1167  ./a.out 
+ 1168  nano LD5_bubblesort.c 
+ 1169  g++ LD5_bubblesort.c 
+ 1170  ./a.out 
+ 1171  nano LD5_bubblesort.c 
+ 1172  g++ LD5_bubblesort.c 
+ 1173  ./a.out 
+ 1174  nano LD5_bubblesort.c 
+ 1175  g++ LD5_bubblesort.c 
+ 1176  ./a.out 
+ 1177  nano LD5_bubblesort.c 
+ 1178  ./a.out 
+ 1179  g++ LD5_bubblesort.c 
+ 1180  ./a.out 
+ 1181  nano LD5_bubblesort.c 
+ 1182  g++ LD5_bubblesort.c 
+ 1183  ./a.out 
+ 1184  nano LD5_bubblesort.c 
+ 1185  g++ LD5_bubblesort.c 
+ 1186  ./a.out 
+ 1187  nano LD5_bubblesort.c 
+ 1188  g++ LD5_bubblesort.c 
+ 1189  nano LD5_bubblesort.c 
+ 1190  g++ LD5_bubblesort.c 
+ 1191  ./a.out 
+ 1192  nano LD5_bubblesort.c 
+ 1193  g++ LD5_bubblesort.c 
+ 1194  nano LD5_bubblesort.c 
+ 1195  g++ LD5_bubblesort.c 
+ 1196  nano LD5_bubblesort.c 
+ 1197  g++ LD5_bubblesort.c 
+ 1198  ./a.out 
+ 1199  nano LD5_bubblesort.c 
+ 1200  g++ LD5_bubblesort.c 
+ 1201  nano LD5_bubblesort.c 
+ 1202  g++ LD5_bubblesort.c 
+ 1203  ./a.out 
+ 1204  nano LD5_bubblesort.c 
+ 1205  g++ LD5_bubblesort.c 
+ 1206  ./a.out 
+ 1207  nano LD5_bubblesort.c 
+ 1208  g++ LD5_bubblesort.c 
+ 1209  ./a.out 
+ 1210  nano LD5_bubblesort.c 
+ 1211  g++ LD5_bubblesort.c 
+ 1212  ./a.out 
+ 1213  nano LD5_bubblesort.c 
+ 1214  g++ LD5_bubblesort.c 
+ 1215  ./a.out 
+ 1216  nano LD5_bubblesort.c 
+ 1217  g++ LD5_bubblesort.c 
+ 1218  ./a.out 
+ 1219  nano LD5_bubblesort.c 
+ 1220  g++ LD5_bubblesort.c 
+ 1221  ./a.out 
+ 1222  nano LD5_bubblesort.c 
+ 1223  g++ LD5_bubblesort.c 
+ 1224  ./a.out 
+ 1225  nano LD5_bubblesort.c 
+ 1226  g++ LD5_bubblesort.c 
+ 1227  ./a.out 
+ 1228  g++ LD5_bubblesort.c 
+ 1229  nano LD5_bubblesort.c 
+ 1230  g++ LD5_bubblesort.c 
+ 1231  nano LD5_bubblesort.c 
+ 1232  ./a.out 
+ 1233  nano LD5_bubblesort.c 
+ 1234  g++ LD5_bubblesort.c 
+ 1235  ./a.out 
+ 1236  nano LD5_bubblesort.c 
+ 1237  g++ LD5_bubblesort.c 
+ 1238  ./a.out 
+ 1239  nano LD5_bubblesort.c 
+ 1240  g++ LD5_bubblesort.c 
+ 1241  ./a.out 
+ 1242  nano LD5_bubblesort.c 
+ 1243  g++ LD5_bubblesort.c 
+ 1244  ./a.out 
+ 1245  nano LD5_bubblesort.c 
+ 1246  g++ LD5_bubblesort.c 
+ 1247  nano LD5_bubblesort.c 
+ 1248  g++ LD5_bubblesort.c 
+ 1249  nano LD5_bubblesort.c 
+ 1250  g++ LD5_bubblesort.c 
+ 1251  ./a.out 
+ 1252  nano LD5_bubblesort.c 
+ 1253  g++ LD5_bubblesort.c 
+ 1254  ./a.out 
+ 1255  nano LD5_bubblesort.c 
+ 1256  g++ LD5_bubblesort.c 
+ 1257  grdfg
+ 1258  ./a.out 
+ 1259  nano LD5_bubblesort.c 
+ 1260  g++ LD5_bubblesort.c 
+ 1261  nano LD5_bubblesort.c 
+ 1262  g++ LD5_bubblesort.c 
+ 1263  ./a.out 
+ 1264  nano LD5_bubblesort.c 
+ 1265  g++ LD5_bubblesort.c 
+ 1266  nano LD5_bubblesort.c 
+ 1267  g++ LD5_bubblesort.c 
+ 1268  ./a.out 
+ 1269  nano LD5_bubblesort.c 
+ 1270  g++ LD5_bubblesort.c 
+ 1271  ./a.out 
+ 1272  nano LD5_bubblesort.c 
+ 1273  g++ LD5_bubblesort.c 
+ 1274  ./a.out 
+ 1275  nano LD5_bubblesort.c 
+ 1276  g++ LD5_bubblesort.c 
+ 1277  ./a.out 
+ 1278  nano LD5_bubblesort.c 
+ 1279  g++ LD5_bubblesort.c 
+ 1280  nano LD5_bubblesort.c 
+ 1281  g++ LD5_bubblesort.c 
+ 1282  nano LD5_bubblesort.c 
+ 1283  g++ LD5_bubblesort.c 
+ 1284  nano LD5_bubblesort.c 
+ 1285  g++ LD5_bubblesort.c 
+ 1286  ./a.out 
+ 1287  nano LD5_bubblesort.c 
+ 1288  g++ LD5_bubblesort.c 
+ 1289  nano LD5_bubblesort.c 
+ 1290  g++ LD5_bubblesort.c 
+ 1291  nano LD5_bubblesort.c 
+ 1292  g++ LD5_bubblesort.c 
+ 1293  nano LD5_bubblesort.c 
+ 1294  g++ LD5_bubblesort.c 
+ 1295  ./a.out 
+ 1296  nano LD5_bubblesort.c 
+ 1297  fg
+ 1298  g++ LD5_bubblesort.c 
+ 1299  ./a.out 
+ 1300  fg
+ 1301  nano LD5_bubblesort.c 
+ 1302  g++ LD5_bubblesort.c 
+ 1303  nano LD5_bubblesort.c 
+ 1304  g++ LD5_bubblesort.c 
+ 1305  ./a.out 
+ 1306  nano LD5_bubblesort.c 
+ 1307  g++ LD5_bubblesort.c 
+ 1308  ./a.out 
+ 1309  nano LD5_bubblesort.c 
+ 1310  g++ LD5_bubblesort.c 
+ 1311  ./a.out 
+ 1312  nano LD5_bubblesort.c 
+ 1313  g++ LD5_bubblesort.c 
+ 1314  ./a.out 
+ 1315  nano LD5_bubblesort.c 
+ 1316  g++ LD5_bubblesort.c 
+ 1317  ./a.out 
+ 1318  nano LD5_bubblesort.c 
+ 1319  g++ LD5_bubblesort.c 
+ 1320  ./a.out 
+ 1321  nano LD5_bubblesort.c 
+ 1322  g++ LD5_bubblesort.c 
+ 1323  ./a.out 
+ 1324  nano LD5_bubblesort.c 
+ 1325  g++ LD5_bubblesort.c 
+ 1326  ./a.out 
+ 1327  nano LD5_bubblesort.c 
+ 1328  g++ LD5_bubblesort.c 
+ 1329  ./a.out 
+ 1330  nano LD5_bubblesort.c 
+ 1331  g++ LD5_bubblesort.c 
+ 1332  ./a.out 
+ 1333  cd ./LD5/
+ 1334  nano gnuplotscript.gp
+ 1335  g++ LD5_bubblesort.c 
+ 1336  ./a.out 
+ 1337  nano LD5_bubblesort.c 
+ 1338  g++ LD5_bubblesort.c 
+ 1339  ./a.out 
+ 1340  gnuplot
+ 1341  cd ....
+ 1342  cd ..
+ 1343  history > ./history/2021_01_04.txt

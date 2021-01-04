@@ -3,11 +3,13 @@
 
 double a,b,delta_x,x;
 
+//first derivative pirmas kartas atvasinajums
 double fd_numerical(double x)
 {
 return (exp(-(x+delta_x))-exp(-x))/delta_x;
 }
 
+//second derivative otras kartas atvasinajums
 double sd_numerical(double x)
 {
 return (fd_numerical(x+delta_x)-fd_numerical(x))/delta_x;

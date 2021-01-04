@@ -15,11 +15,13 @@ int main(){
  printf("Ievadiet precizitati:");
  scanf("%le",&d);
 
+//apmaina robezas ja pirma ir lielaka par otro
  if (a>b){
   a = a+b;
   b = a-b;
   a = a-b;
  }
+
 
  if ((exp(-a)-c) * (exp(-b)-c) > 0){
   printf("saja apgabala saknu nav\n");

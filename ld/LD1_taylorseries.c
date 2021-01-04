@@ -14,7 +14,7 @@ int main(){
  {
    pirmspedejais = a;
    k++;
-   a = a* (long double) (-x)/k;
+   a = a* (long double) (-x)/k; //rekursijas reizinatajs
    approx += a;
  }
 
