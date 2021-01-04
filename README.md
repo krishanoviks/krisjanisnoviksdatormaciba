@@ -325,5 +325,7 @@ int main()
   return 0;
 }
 ```
-##Izmantots string 'Krisjanis ir fors'
+Izmantots string 'Krisjanis ir fors'
+
+Gnuplot man neattelo dazus simbolus, es meginaju salabot vairakos veidos, bet man nesanaca.
 ![bubblesort histogram](/ld/LD5/histogram.svg)

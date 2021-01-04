@@ -86,7 +86,7 @@ int main()
 //GNUPLOT HISTOGRAMMA
   int freq[128]= {0};
   for (int i=0; arr[i] != 10; i++) freq[arr[i]] +=1;
-  for (int i=32; i<127; i++) fprintf(pFile,"\t%c\t%d\n",i,freq[i]); //sakam no redzamiem simboliem
+  for (int i=32; i<127; i++) fprintf(pFile,"\t\"%c\"\t%d\n",i,freq[i]); //sakam no redzamiem simboliem
   fclose(pFile);
 
   return 0;

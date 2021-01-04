@@ -1,32 +1,3 @@
-  344  ./a
-  345  gcc funkcijas_veidosana.c 
-  346  nano funkcijas_veidosana.c 
-  347  gcc funkcijas_veidosana.c 
-  348  ./a.out 
-  349  cd ..
-  350  cd ./uzdevumi/
-  351  nano PU_6_use_defined_function.c
-  352  mv ./PU_6_use_defined_function.c ./PU_6_user_defined_function.c 
-  353  nano PU_6_user_defined_function.c 
-  354  gcc PU_6_user_defined_function.c 
-  355  nano PU_6_user_defined_function.c 
-  356  gcc PU_6_user_defined_function.c 
-  357  ./a.out 
-  358  nano PU_6_user_defined_function.c 
-  359  gcc PU_6_user_defined_function.c 
-  360  nano PU_6_user_defined_function.c 
-  361  gcc PU_6_user_defined_function.c 
-  362  ./a.out 
-  363  nano PU_6_user_defined_function.c 
-  364  gcc PU_6_user_defined_function.c 
-  365  ./a.out 
-  366  nano PU_6_user_defined_function.c 
-  367  gcc PU_6_user_defined_function.c 
-  368  nano PU_6_user_defined_function.c 
-  369  gcc PU_6_user_defined_function.c 
-  370  ./a.out 
-  371  nano PU_6_user_defined_function.c 
-  372  gcc PU_6_user_defined_function.c 
   373  nano PU_6_user_defined_function.c 
   374  nano 4uzd_while_factorial.c
   375  fg
@@ -998,3 +969,32 @@
  1341  cd ....
  1342  cd ..
  1343  history > ./history/2021_01_04.txt
+ 1344  ./upload 
+ 1345  git push master
+ 1346  git push origin
+ 1347  cd ./ld/LD5/
+ 1348  nano LD5_bubblesort.c 
+ 1349  g++ LD5_bubblesort.c 
+ 1350  ./a.out 
+ 1351  gnuplot
+ 1352  nano LD5_bubblesort.c 
+ 1353  g++ LD5_bubblesort.c 
+ 1354  ./a.out 
+ 1355  nano LD5_bubblesort.c 
+ 1356  g++ LD5_bubblesort.c 
+ 1357  ./a.out 
+ 1358  nano LD5_bubblesort.c 
+ 1359  g++ LD5_bubblesort.c 
+ 1360  ./a.out 
+ 1361  nano LD5_bubblesort.c 
+ 1362  g++ LD5_bubblesort.c 
+ 1363  ./a.out 
+ 1364  gnuplot
+ 1365  nano LD5_bubblesort.c 
+ 1366  g++ LD5_bubblesort.c 
+ 1367  ./a.out 
+ 1368  gnuplot
+ 1369  cd ..
+ 1370  cd ..cd ..
+ 1371  cd ..
+ 1372  history > ./history/2021_01_04.txt
