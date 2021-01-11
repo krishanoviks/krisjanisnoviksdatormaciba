@@ -68,12 +68,14 @@ int main(){
  printf("Ievadiet precizitati:");
  scanf("%le",&d);
 
+//noliek mazako robezu pa kreisi
  if (a>b){
   a = a+b;
   b = a-b;
   a = a-b;
  }
 
+//manai funkcijai tikai 1 sakne jebkura apgabala
  if ((exp(-a)-c) * (exp(-b)-c) > 0){
   printf("saja apgabala saknu nav\n");
   return 1;
@@ -102,11 +104,13 @@ int main(){
 
 double a,b,delta_x,x;
 
+//first derivative
 double fd_numerical(double x)
 {
 return (exp(-(x+delta_x))-exp(-x))/delta_x;
 }
 
+//second derivative
 double sd_numerical(double x)
 {
 return (fd_numerical(x+delta_x)-fd_numerical(x))/delta_x;
@@ -124,12 +128,12 @@ int main()
 
   printf("SKAITLISKA METODE\n");
   x = a;
-  FILE * pFile;
+  FILE * pFile; //atver failu prieks gnuplot
   pFile = fopen("derivative.dat","w");
   while(x < b)
   {
-    fprintf(pFile,"%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\n",x,exp(-x),fd_numerical(x),sd_numerical(x),-exp(-x),exp(-x));
-    printf("%10.2f\t%10.2f\t%10.2f\t%10.2f\n",x,exp(-x),fd_numerical(x),sd_numerical(x));
+    fprintf(pFile,"%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\t%10.2f\n",x,exp(-x),fd_numerical(x),sd_numerical(x),-exp(-x),exp(-x)); //raksta faila
+    printf("%10.2f\t%10.2f\t%10.2f\t%10.2f\n",x,exp(-x),fd_numerical(x),sd_numerical(x)); //raksta uz ekrana
     x+=delta_x;
   }
   fclose(pFile);
@@ -156,6 +160,9 @@ int main()
 double a,b,sum,delta,integr1,integr_ta,integr_tr,integr_Si,h;
 int n=4,k;
 
+/*funkcija 
+(no sakuma es gribeju, lai strada jebkurai funkcijai,
+ bet es neiztesteju ar citam, neesmu parliecinats, vai strada)*/
 double f(double x){
  return exp(-x);
 }
@@ -169,6 +176,7 @@ int main()
  printf("ievadiet precizitati:");
  scanf("%lf",&delta);
 
+/*TAISNSTURA METODE*/
  integr_ta=fabs(b-a)*(f(a)+f(b))/n;
  while(fabs(integr_ta-integr1)>delta)
  {
@@ -180,6 +188,7 @@ int main()
  }
  printf("integrala vertiba ar taisnsturiem: %.6lf\n",integr_ta);
 
+/*TRAPECES METODE*/
  n=2;
  integr1=0;
  h = fabs(b-a)/n;
@@ -196,6 +205,7 @@ int main()
  printf("integrala vertiba ar trapecem: %.6lf\n",integr_tr/2);
  //es nezinu kapec bet rezultats sanak 2 reiz lielaks tapec es vel izdalu ar 2
 
+/*SIMPSONA METODE */
  n=2;
  integr1=0;
  h=fabs(b-a)/n;
